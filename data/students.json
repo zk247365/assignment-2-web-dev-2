@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "birthday": "2007-03-12",
+    "grade": 90
+  },
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "birthday": "2006-11-02",
+    "grade": 78
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Brown",
+    "birthday": "2008-07-25",
+    "grade": 49
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Williams",
+    "birthday": "2007-01-18",
+    "grade": 99
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Davis",
+    "birthday": "2006-05-30",
+    "grade": 50
+  }
+]

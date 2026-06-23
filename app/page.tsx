@@ -1,9 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import StudentList from "../components/StudentList";
+import StudentList from "./components/StudentList";
 import initialStudents from "../data/students.json";
-import AddStudentForm from "../components/AddStudentForm";
+import AddStudentForm from "./components/AddStudentForm";
 
 export default function Home() {
   const [students, setStudents] = useState(initialStudents);
